@@ -5,7 +5,7 @@ using System.Text.Json.Serialization;
 
 namespace PhotoAlbumShowcase.Models
 {
-    internal class Photo
+    public class Photo
     {
         [JsonPropertyName("id")]
         public int Id { get; set; }

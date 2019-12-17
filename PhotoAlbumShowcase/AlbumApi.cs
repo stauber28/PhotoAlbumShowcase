@@ -8,7 +8,7 @@ using PhotoAlbumShowcase.Models;
 
 namespace PhotoAlbumShowcase
 {
-    internal class AlbumApi
+    public class AlbumApi
     {
         private HttpClient _client;
 

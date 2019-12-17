@@ -1,4 +1,4 @@
-Photo Album Showcase Project
+Photo Album Showcase .NET Core Project
 
 Distributables can be found by extracting PhotoAlbumShowcaseDist.zip.
 This file contains application distributions for Windows and OSx, navigate to your OS
